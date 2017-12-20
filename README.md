@@ -1,2 +1,2 @@
 # Lazymux
-for kali linux tools     clone it in termux
+Lazymux tools installer is very easy to use, only provided for lazy termux users. -,-
